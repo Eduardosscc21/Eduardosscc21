@@ -43,7 +43,7 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades para crear solu
 </td>
 <td align="right">
 
-![Completada](https://img.shields.io/badge/✓%20Completada-198754?style=for-the-badge)
+![Completada](https://coursera.org/share/7893621e0c13f77118c0d76256f32e34)
 
 </td>
 </tr>
